@@ -79,7 +79,7 @@ The original records were preserved, and data quality flags were added to identi
 
 The cleaned datasets are prepared for the next stage: Exploratory Data Analysis (EDA) and business insights generation.
 
-### Note on Geolocation Dataset
+## Note on Geolocation Dataset
 
 The cleaned geolocation dataset (`olist_geolocation_cleaned.csv`) is approximately 76 MB. Due to GitHub's file upload size limitations, it is not included in this repository. The dataset was cleaned and validated as part of this project and is available locally.
 
